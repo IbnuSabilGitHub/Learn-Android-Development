@@ -10,7 +10,7 @@ fun main() {
         Age: $age
         --di isi pada 29/10/2023
     """.trimIndent()
-    
+
     println(data)
 
 }
