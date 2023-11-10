@@ -7,7 +7,7 @@ fun main() {
         }
     }
 //    High Order Lambda Function
-fun mathOpration(num:Int,transfrom:(Int) -> Int):Int = transfrom(num)
+    fun mathOpration(num:Int,transfrom:(Int) -> Int):Int = transfrom(num)
     fun characterOpration(char: String,transfrom:(String) -> String):String = transfrom(char)
 
     val up = fun(value:String):String{
