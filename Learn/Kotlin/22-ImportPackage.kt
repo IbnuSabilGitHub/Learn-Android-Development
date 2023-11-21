@@ -1,4 +1,4 @@
-import com.company.learn.until.*
+import com.company.learn.until.Math.*
 fun main() {
     println(mathOperation(2, quadrat))
     println(mathOperation(5, factorial))

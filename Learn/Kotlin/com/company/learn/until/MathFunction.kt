@@ -1,4 +1,4 @@
-package com.company.learn.until
+package com.company.learn.until.Math
 
 
 fun mathOperation(num:Int, operation: (Int) -> Int):Int = operation(num)
