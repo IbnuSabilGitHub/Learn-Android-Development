@@ -1,0 +1,54 @@
+[33mcommit 97113dbab99f443d17e43a2d45e042da6277ada2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 1474b6b d947dd5
+Author: IbnuSabil <ibnusabil2301@gmail.com>
+Date:   Mon Oct 30 19:33:26 2023 +0800
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit 1474b6b2e70a7db519e50b2cc5d2435da8b9d262[m
+Author: IbnuSabil <ibnusabil2301@gmail.com>
+Date:   Mon Oct 30 19:31:26 2023 +0800
+
+    Variable
+
+[33mcommit d947dd5d63907274d3e8700da8886c9056899c4b[m
+Author: IbnuSabil <122030967+IbnuSabilGitHub@users.noreply.github.com>
+Date:   Sun Oct 29 13:44:28 2023 +0700
+
+    Update README.md
+
+[33mcommit 95abbabc269f216dc5efade26fd2b63b379c3af0[m
+Author: IbnuSabil <122030967+IbnuSabilGitHub@users.noreply.github.com>
+Date:   Sun Oct 29 13:42:54 2023 +0700
+
+    Create README.md
+
+[33mcommit 225e8c679a42f9792c2282f28ff38ca71dbe3466[m
+Author: IbnuSabil <ibnusabil2301@gmail.com>
+Date:   Sun Oct 29 13:36:33 2023 +0700
+
+    Type data string
+
+[33mcommit 7862ec837f1927c1a55182ed9d436b0c0aa3b00e[m
+Author: IbnuSabil <ibnusabil2301@gmail.com>
+Date:   Sun Oct 29 13:16:25 2023 +0700
+
+    Type Data Bolean
+
+[33mcommit 304f882c8fbeabc13dc8628acf18367ec93f4234[m
+Author: IbnuSabil <ibnusabil2301@gmail.com>
+Date:   Sun Oct 29 13:11:35 2023 +0700
+
+    Type Data Character
+
+[33mcommit 72e2826a55faf73ee74b20047e34bdf25004cf97[m
+Author: IbnuSabil <ibnusabil2301@gmail.com>
+Date:   Sun Oct 29 13:04:55 2023 +0700
+
+    Type Data Number
+
+[33mcommit b3e08987138243ea3653c30bb068f6f7badccbaf[m
+Author: IbnuSabil <ibnusabil2301@gmail.com>
+Date:   Sun Oct 29 08:44:46 2023 +0700
+
+    Create Repository
