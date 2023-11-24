@@ -4,7 +4,7 @@ fun main() {
     var LaptopHp = Laptop(
         "Hp",
         "VICTUS GAMING",
-        
+
     )
 
     LaptopHp.NoUnit = 654
