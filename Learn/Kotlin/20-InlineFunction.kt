@@ -1,4 +1,4 @@
-
+package Learn.Kotlin
 
 inline fun math(num: Int, oprations: (Int) -> Int):Int = oprations(num)
 inline fun char(value: String, oprations: (String) -> String):String = oprations(value)

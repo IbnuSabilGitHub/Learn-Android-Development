@@ -1,4 +1,4 @@
-
+package Learn.Kotlin
 fun countArray(array:Array<Int>):Int{
     var buffer = 0
     for(i in array){

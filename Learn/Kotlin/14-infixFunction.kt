@@ -1,4 +1,4 @@
-
+package Learn.Kotlin
 infix fun Int.akar(n: Int):Int{
     var buffer = 1
     for (i in 1..n){

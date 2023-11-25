@@ -1,3 +1,4 @@
+package Learn.Kotlin
 tailrec fun factorial(n: Int, buffer: Int = 1):Int{
     return when(n){
         1 -> buffer

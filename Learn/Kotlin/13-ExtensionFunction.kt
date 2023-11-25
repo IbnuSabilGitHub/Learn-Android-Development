@@ -1,4 +1,4 @@
-
+package Learn.Kotlin
 fun String.name():String = "$this ibnu"
 
 fun Int.quad():Int = this * this

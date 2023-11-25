@@ -1,4 +1,4 @@
-
+package Learn.Kotlin
 
 fun quadrat(x:Int):Int{
    val quad = x * x
