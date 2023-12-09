@@ -1,6 +1,6 @@
 package Learn.`Kotlin-OOP`.classAndObject.data
 
-class cpu(val Product:String, val Type){
+class cpu(val Product:String, val Type:String){
     val core:Int? = null
     val threads:Int? = null
     val maxTurboFrequency: Int? = null
@@ -21,7 +21,7 @@ class cpu(val Product:String, val Type){
     }
 }
 
-class gpu(val Product:String, val Type){
+class gpu(val Product:String, val Type:String){
     val core:String? = null
     val boostClock:String? = null
     val baseClock:String? = null
