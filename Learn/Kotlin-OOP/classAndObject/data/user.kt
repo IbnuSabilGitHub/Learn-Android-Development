@@ -8,3 +8,20 @@ class user(var nickname: String, var password: String) {
         }
     }
 }
+
+class Description(des:String){
+    var des:String = des
+        get() {
+            println("GETTTER")
+            return field.uppercase()
+        }
+        set(value){
+            if(value.isNotBlank()){
+                println("SETTER")
+                println("Mengubah nilai menjadi $value")
+                field = value
+            }else{
+                println("Invaild")
+            }
+        }
+}
