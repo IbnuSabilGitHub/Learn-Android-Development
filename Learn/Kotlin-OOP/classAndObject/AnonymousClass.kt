@@ -14,6 +14,8 @@ class sampelHellowWord : HellowWord {
 fun main() {
     printThis(sampelHellowWord())
     printThis(object : HellowWord {
+        override fun helloWord() = println("Hello, word anonymous one")
+
     })
 
     printThis(object : HellowWord {
