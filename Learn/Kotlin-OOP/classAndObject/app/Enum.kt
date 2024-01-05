@@ -1,13 +1,19 @@
 package Learn.`Kotlin-OOP`.classAndObject.app
 
-import Learn.`Kotlin-OOP`.classAndObject.data.MathConstan
-import Learn.`Kotlin-OOP`.classAndObject.data.nickname
 import kotlin.math.floor
+enum class nicknameMath {
+    spgJunior,QWERTYUIO
+}
+
+enum class MathConstan(val value:Double){
+    pi(3.14159265359),
+    e(2.71828182846);
+}
 
 fun main() {
-    val MathPi = nickname.spgJunior
-    val allValueArr: Array<nickname> = nickname.values()
-    println(nickname.valueOf("spgJunior"))
+    val MathPi = nicknameMath.spgJunior
+    val allValueArr: Array<nicknameMath> = nicknameMath.values()
+    println(nicknameMath.valueOf("spgJunior"))
     println(allValueArr.toList())
 
     val pi = MathConstan.pi.value
